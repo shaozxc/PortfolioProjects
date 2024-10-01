@@ -5,7 +5,7 @@ export const ContactSection = () => {
       <div className='container'>
         <div className='bg-gradient-to-r from-sky-400 to-indigo-400 text-gray-900 py-8 px-10 rounded-3xl text-center'>
           <h2 className='font-serif text-2xl md:text-3xl '>
-            Let's Create Something Amazing Together!
+            Let&#39;s Create Something Amazing Together!
           </h2>
           <p className='text-sm md:text-base mt-2'>
             Are you ready to bring your project to life?
